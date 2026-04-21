@@ -1,16 +1,30 @@
-## Hi there 👋
+Senior Game Developer at Ocean View Games. London, UK.
 
-<!--
-**OVG-Adam/OVG-Adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity engineer specialising in gameplay mechanics, AI systems, and rapid prototyping. Ten years building games that ship, with a particular focus on educational and serious games where design, pedagogy, and engineering have to meet.
 
-Here are some ideas to get you started:
+Previously at Fish in a Bottle I led development on Navigo, a multi-language learning game that won a Serious Games Society award, and contributed to the EU Horizon 2020 iRead project across multiple partner institutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I work on
+
+Gameplay systems design and implementation in Unity
+AI behaviour: utility AI, behaviour trees, finite state machines, pathfinding
+Rapid prototyping and vertical slice development
+Educational and serious game architecture
+
+#### Selected work
+
+Navigo: led development of a multi-language learning game for the EU Horizon 2020 iRead project. Winner, Serious Games Society award.
+DOMI Online: Gameplay programming focusing on combat and professions.
+
+#### Writing
+
+Technical posts on Unity gameplay systems, AI, and educational game design on the Ocean View Games blog and DEV.to.
+
+#### Stack
+
+Unity 6 · C# · Behaviour Designer · NavMesh · A* Pathfinding · Addressables · URP · WebGL
+
+#### Elsewhere
+
+oceanviewgames.co.uk
+LinkedIn
