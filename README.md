@@ -23,7 +23,7 @@ Technical posts on Unity gameplay systems, AI, and educational game design on th
 
 #### Stack
 
-Unity 6 · C# · Behaviour Designer · NavMesh · Game Design · Addressables · URP · WebGL
+Unity 6 · C# · Behaviour Designer · NavMesh · Game Design · Addressables · URP · WebGL · PixiJS
 
 #### Elsewhere
 
