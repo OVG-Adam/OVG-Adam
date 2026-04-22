@@ -15,7 +15,7 @@ Educational and serious game architecture
 
 [DOMI Online](https://oceanviewgames.co.uk/projects/domi): Gameplay programming focusing on combat and professions.
 
-[Navigo](https://oceanviewgames.co.uk/projects/navigo): led development of a multi-language learning game for the EU Horizon 2020 iRead project. Winner, Serious Games Society award.
+[Navigo](https://oceanviewgames.co.uk/projects/navigo): Led development of a multi-language learning game for the EU Horizon 2020 iRead project. Winner, Serious Games Society award.
 
 #### Writing
 
