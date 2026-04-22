@@ -13,8 +13,9 @@ Educational and serious game architecture
 
 #### Selected work
 
-[DOMI Online]([url](https://oceanviewgames.co.uk/projects/domi)): Gameplay programming focusing on combat and professions.
-[Navigo]([url](https://oceanviewgames.co.uk/projects/navigo)): led development of a multi-language learning game for the EU Horizon 2020 iRead project. Winner, Serious Games Society award.
+[DOMI Online](https://oceanviewgames.co.uk/projects/domi): Gameplay programming focusing on combat and professions.
+
+[Navigo](https://oceanviewgames.co.uk/projects/navigo): led development of a multi-language learning game for the EU Horizon 2020 iRead project. Winner, Serious Games Society award.
 
 #### Writing
 
@@ -26,4 +27,4 @@ Unity 6 · C# · Behaviour Designer · NavMesh · Game Design · Addressables ·
 
 #### Elsewhere
 
-[oceanviewgames.co.uk]([url](https://oceanviewgames.co.uk))
+[oceanviewgames.co.uk](https://oceanviewgames.co.uk)
